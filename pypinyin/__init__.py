@@ -49,7 +49,8 @@ __all__ = [
     'STYLE_BOPOMOFO', 'BOPOMOFO',
     'STYLE_BOPOMOFO_FIRST', 'BOPOMOFO_FIRST',
     'STYLE_CYRILLIC', 'CYRILLIC',
-    'STYLE_CYRILLIC_FIRST', 'CYRILLIC_FIRST'
+    'STYLE_CYRILLIC_FIRST', 'CYRILLIC_FIRST',
+    'STYLE_IPA', 'IPA',
 ]
 if PY2:
     # fix "TypeError: Item in ``from list'' not a string" on Python 2

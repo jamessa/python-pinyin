@@ -58,4 +58,5 @@ def auto_discover():
         bopomofo,
         cyrillic,
         others,
+        ipa,
     )
